@@ -1,0 +1,47 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\arbolBinario\bin\Debug\arbolBinario.exe.config
+C:\Users\usuario\Downloads\arbolBinario\arbolBinario\bin\Debug\arbolBinario.exe.config
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.exe.config
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.exe
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.pdb
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.Form1.resources
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.Properties.Resources.resources
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.exe
+C:\Users\DELL\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.pdb
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.exe.config
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.exe
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.pdb
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.Form1.resources
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.csproj.GenerateResource.Cache
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.exe
+C:\Users\Usuario\OneDrive\udb\2016\ciclo II\progra Iv\guias\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.pdb
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.exe.config
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.exe
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.pdb
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.exe
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\bin\Debug\arbolBinario.pdb
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.Form1.resources
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.Properties.Resources.resources
+C:\Users\Andrea\Downloads\arbolBinario Sexy Byron\arbolBinario\obj\Debug\arbolBinario.csproj.GenerateResource.Cache
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\bin\Debug\arbolBinario.exe.config
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\obj\Debug\arbolBinario.exe
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\obj\Debug\arbolBinario.pdb
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\bin\Debug\arbolBinario.exe
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\bin\Debug\arbolBinario.pdb
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\obj\Debug\arbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\obj\Debug\arbolBinario.Form1.resources
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\obj\Debug\arbolBinario.Properties.Resources.resources
+C:\Users\Andrea\Downloads\arbolBinario\arbolBinario\obj\Debug\arbolBinario.csproj.GenerateResource.Cache
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\bin\Debug\arbolBinario.exe.config
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\obj\Debug\arbolBinario.exe
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\obj\Debug\arbolBinario.pdb
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\bin\Debug\arbolBinario.exe
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\bin\Debug\arbolBinario.pdb
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\obj\Debug\arbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\obj\Debug\arbolBinario.Form1.resources
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\obj\Debug\arbolBinario.Properties.Resources.resources
+C:\Users\Federico\Videos\arbolBinario\arbolBinario\obj\Debug\arbolBinario.csproj.GenerateResource.Cache
